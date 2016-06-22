@@ -1,0 +1,4 @@
+package: github.com/zwant/CDashReporter
+import:
+  - package: github.com/kataras/iris
+  - package: github.com/influxdata/influxdb/client/v2
